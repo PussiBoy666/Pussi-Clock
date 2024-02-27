@@ -1,0 +1,4 @@
+name: ClockPlugin
+version: '${project.version}'
+main: rarbit.clockplugin.Plugin
+api-version: '1.20'
